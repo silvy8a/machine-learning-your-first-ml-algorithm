@@ -2,3 +2,4 @@ __pycache__
 .env
 .learn
 data/processed/
+models/
